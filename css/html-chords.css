@@ -1,0 +1,6 @@
+div.song > p {line-height:2.5;margin:15px 0px 15px 0px;}
+span.chord {position:absolute;line-height:0;font-weight:bold; color: #6C5ECE;}
+span.chord-inline {font-weight:bold; color: #6C5ECE;}
+div.transposition a.transposition {margin:5px;}
+div.song div.transposition {margin-bottom:20px;}
+
